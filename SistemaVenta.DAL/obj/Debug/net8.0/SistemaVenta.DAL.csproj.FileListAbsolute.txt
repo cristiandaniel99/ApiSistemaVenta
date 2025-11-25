@@ -1,0 +1,15 @@
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.deps.json
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfo.cs
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
