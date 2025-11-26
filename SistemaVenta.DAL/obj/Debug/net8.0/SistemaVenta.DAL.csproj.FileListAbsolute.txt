@@ -13,3 +13,4 @@ D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\Sist
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.sourcelink.json

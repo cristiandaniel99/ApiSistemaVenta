@@ -21,3 +21,4 @@ D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\Sist
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.IOC\bin\Debug\net8.0\SistemaVenta.Model.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.csproj.AssemblyReference.cache
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaV.CF7CC950.Up2Date
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.IOC\obj\Debug\net8.0\SistemaVenta.IOC.sourcelink.json

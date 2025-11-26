@@ -9,3 +9,4 @@ D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\Sist
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\refint\SistemaVenta.DTO.dll
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\ref\SistemaVenta.DTO.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.DTO\obj\Debug\net8.0\SistemaVenta.DTO.sourcelink.json

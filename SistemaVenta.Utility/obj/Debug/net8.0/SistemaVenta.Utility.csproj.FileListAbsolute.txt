@@ -15,3 +15,4 @@ D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.Utility\bin\Debug\net8.0\SistemaVenta.Model.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaV.10E87F00.Up2Date
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.Utility\obj\Debug\net8.0\SistemaVenta.Utility.sourcelink.json
