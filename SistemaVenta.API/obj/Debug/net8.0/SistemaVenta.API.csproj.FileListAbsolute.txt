@@ -100,3 +100,9 @@ D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\Sist
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
 D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\swae.build.ex.cache
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\obj\Debug\net8.0\SistemaVenta.API.sourcelink.json
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\Mapster.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\Mapster.Core.dll
+D:\Sistemas\.NET Projects\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\Mapster.DependencyInjection.dll

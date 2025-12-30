@@ -1,4 +1,7 @@
+using AutoMapper;
+using Microsoft.Extensions.DependencyInjection;
 using SistemaVenta.IOC;
+using SistemaVenta.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +15,8 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.IneyectarDependencias(builder.Configuration);
+
+
 
 var app = builder.Build();
 
