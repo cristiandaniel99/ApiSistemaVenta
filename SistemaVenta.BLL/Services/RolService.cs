@@ -14,27 +14,27 @@ namespace SistemaVenta.BLL.Services
     public class RolService : IRolService
     {
 
-        private readonly IGenericRepository<Rol> _rolRepostory;
+        private readonly IGenericRepository<Rol> _rolRepository;
 
         private readonly IMapper _mapper;
 
-        public RolService(IGenericRepository<Rol> rolRepostory, IMapper mapper)
+        public RolService(IGenericRepository<Rol> rolRepository, IMapper mapper)
         {
-            _rolRepostory = rolRepostory;
+            _rolRepository = rolRepository;
             _mapper = mapper;
         }
 
         public async Task<List<RolDTO>> Lista()
         {
             try {
-                var listaRoles = await _rolRepostory.Consultar();
+                var listaRoles = await _rolRepository.Consultar();
                 return _mapper.Map<List<RolDTO>>(listaRoles.ToList());
             }
             catch
             {
                 throw;
             }
-            ;
+            
         }
     }
 }
