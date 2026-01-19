@@ -1,23 +1,22 @@
 [
   {
-    "ContainingType": "SistemaVenta.API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "SistemaVenta.API.Controllers.RolController",
+    "Method": "Lista",
+    "RelativePath": "api/Rol/Lista",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[SistemaVenta.API.WeatherForecast, SistemaVenta.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SistemaVenta.API.Controllers.UsuarioController",
+    "Method": "Lista",
+    "RelativePath": "api/Usuario/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]

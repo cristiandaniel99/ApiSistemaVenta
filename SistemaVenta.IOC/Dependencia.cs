@@ -4,6 +4,8 @@ using MapsterMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using SistemaVenta.BLL.Services;
+using SistemaVenta.BLL.Services.Contract;
 using SistemaVenta.DAL.DBContext;
 using SistemaVenta.DAL.Repositories;
 using SistemaVenta.DAL.Repositories.Contract;
@@ -41,6 +43,15 @@ namespace SistemaVenta.IOC
             services.AddSingleton(config); // Registra la configuración
             services.AddScoped<IMapper, ServiceMapper>(); // Registra la interfaz IMapper
 
+            services.AddScoped<IRolService, RolService>();
+            services.AddScoped<IUsuarioService, UsuarioService>();
+            services.AddScoped<ICategoriaService, CategoriaService>();
+            services.AddScoped<IProductoService, ProductoService>();
+            services.AddScoped<IVentaService, VentaService>();
+            services.AddScoped<IDashboardService, DashboardService>();
+            services.AddScoped<IMenuService, MenuService>();
+
+            
 
         }
     }
