@@ -20,6 +20,12 @@ namespace SistemaVenta.BLL.Services
 
         private readonly IMapper _mapper;
 
+        public CategoriaService(IGenericRepository<Categoria> categoriaRepository, IMapper mapper)
+        {
+            _categoriaRepository = categoriaRepository;
+            _mapper = mapper;
+        }
+
         public async Task<List<CategoriaDTO>> Lista()
         {
             try

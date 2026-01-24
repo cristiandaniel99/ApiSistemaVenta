@@ -8,7 +8,7 @@ using SistemaVenta.DTO;
 
 namespace SistemaVenta.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     public class UsuarioController : ControllerBase
     {
