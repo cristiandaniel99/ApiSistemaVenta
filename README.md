@@ -5,4 +5,4 @@
 -Mapster
 -SqlServer
 
-Importante: configurar la variable de entorno para la cadena de conexion sql dentro de appsetting.json dentro de la capa SistemaVenta.Api
+## Importante: configurar la variable de entorno para la cadena de conexion sql dentro de appsetting.json dentro de la capa SistemaVenta.Api
