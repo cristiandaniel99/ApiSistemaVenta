@@ -9,7 +9,7 @@ namespace SistemaVenta.DTO
     public class CategoriaDTO
     {
 
-        public int idCategoria { get; set; }
+        public int IdCategoria { get; set; }
 
         public string? Nombre { get; set; }
 

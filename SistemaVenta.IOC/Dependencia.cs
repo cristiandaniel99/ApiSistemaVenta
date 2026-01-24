@@ -1,5 +1,4 @@
-﻿
-using Mapster;
+﻿using Mapster;
 using MapsterMapper;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -16,6 +15,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using IMapper = MapsterMapper.IMapper;
+using Microsoft.AspNetCore.Identity;
+using SistemaVenta.Model;
+
 namespace SistemaVenta.IOC
 {
    public static class Dependencia
@@ -44,6 +46,9 @@ namespace SistemaVenta.IOC
             services.AddScoped<IMapper, ServiceMapper>(); // Registra la interfaz IMapper
 
             services.AddScoped<IRolService, RolService>();
+            // Registrar el IPasswordHasher<Usuario> requerido por UsuarioService
+            services.AddScoped<IPasswordHasher<Usuario>, PasswordHasher<Usuario>>();
+
             services.AddScoped<IUsuarioService, UsuarioService>();
             services.AddScoped<ICategoriaService, CategoriaService>();
             services.AddScoped<IProductoService, ProductoService>();

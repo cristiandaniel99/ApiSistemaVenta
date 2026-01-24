@@ -189,7 +189,7 @@ public partial class DbventaContext : DbContext
 
             entity.Property(e => e.IdUsuario).HasColumnName("idUsuario");
             entity.Property(e => e.Clave)
-                .HasMaxLength(40)
+                .HasMaxLength(500)
                 .IsUnicode(false)
                 .HasColumnName("clave");
             entity.Property(e => e.Correo)
@@ -241,3 +241,4 @@ public partial class DbventaContext : DbContext
 
     partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
 }
+// En la configuración de la entidad Usuario en DbContext
