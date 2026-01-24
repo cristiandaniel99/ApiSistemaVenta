@@ -2,7 +2,7 @@
 
 
 # Sistema de Ventas Api 
-
+- .Net 9
 - N-Layered Architecture
 - EntityFramework
 - Mapster
